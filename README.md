@@ -3,7 +3,7 @@
 
 [<img src="C:\Users\jemer\Desktop\programação manu\C COMPLETO\img\github_logo.png" alt="GitHub" style="zoom:10%;" />](https://gist.github.com/MANOELAVYCTORIA)  [<img src="C:\Users\jemer\Desktop\programação manu\C COMPLETO\img\linkedin.png" alt="Linkedin" style="zoom:50%;" />](https://www.linkedin.com/in/manoela-vyctoria-a5446818b/) 
 
-
+<h6>
 
 Fazer um programa para ler os dados de N contribuintes (N fornecido pelo usuário), os quais
 podem ser pessoa física ou pessoa jurídica, e depois mostrar o valor do imposto pago por cada um,
@@ -24,4 +24,4 @@ Pessoa jurídica: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa 
 funcionários, ela paga 14% de imposto.
 
 Exemplo: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica:
-400000 * 14% = 56000.00
+400000 * 14% = 56000.  <h6>
